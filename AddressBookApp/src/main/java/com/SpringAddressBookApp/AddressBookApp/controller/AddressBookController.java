@@ -1,6 +1,7 @@
 package com.SpringAddressBookApp.AddressBookApp.controller;
 
 import com.SpringAddressBookApp.AddressBookApp.dto.ContactDTO;
+import com.SpringAddressBookApp.AddressBookApp.model.Contact;
 import com.SpringAddressBookApp.AddressBookApp.service.ContactService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
